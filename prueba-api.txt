@@ -1,0 +1,3 @@
+Se realizó una petición POST a la ruta /registro enviando datos en formato JSON.
+El servidor respondió correctamente confirmando la recepción de los datos.
+La respuesta incluye el estado "Datos recibidos", junto con el nombre y el mensaje enviados por el usuario.

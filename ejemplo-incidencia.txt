@@ -1,0 +1,4 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "Una lámpara del parque no funciona desde hace varios días."
+}

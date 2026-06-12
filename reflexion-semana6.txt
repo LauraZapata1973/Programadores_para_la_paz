@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban información estructurada porque permite organizar mejor los datos.
+El formato JSON facilita el intercambio de información entre sistemas.
+Esto permite que los datos sean procesados automáticamente.
+También mejora la comunicación entre ciudadanos y entidades.
+Permite responder más rápido a los problemas reportados.
+Ayuda a reducir errores en la interpretación de la información.
+Facilita la toma de decisiones basadas en datos reales.
+En general, mejora la eficiencia de los servicios digitales.
