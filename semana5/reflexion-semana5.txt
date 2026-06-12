@@ -1,0 +1,8 @@
+Las APIs permiten compartir información de forma rápida y organizada.
+Ayudan a enviar reportes en tiempo real.
+Mejoran la comunicación entre ciudadanos y entidades.
+Centralizan la información en un sistema.
+Permiten respuestas más rápidas.
+Son útiles en emergencias.
+Facilitan la organización de datos.
+Las APIs mejoran la vida diaria.
