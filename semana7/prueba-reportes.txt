@@ -1,0 +1,3 @@
+Cuando se realiza una petición POST a /reportes, el servidor guarda la información en un arreglo en memoria.
+Luego, al hacer una petición GET a /reportes, se pueden visualizar todos los reportes registrados.
+Esto permite verificar que la API está funcionando correctamente.
