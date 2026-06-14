@@ -1,0 +1,5 @@
+No compartir datos personales.
+Usar contraseñas seguras.
+Conectarse solo a redes seguras.
+Controlar y registrar accesos.
+Limitar permisos de usuarios.

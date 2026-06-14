@@ -1,0 +1,3 @@
+Proteger contraseñas.
+No compartir credenciales.
+Mantener software actualizado.
