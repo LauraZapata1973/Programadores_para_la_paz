@@ -1,0 +1,4 @@
+Es importante que las plataformas comunitarias funcionen en servidores estables para que los usuarios puedan acceder sin problemas.  
+La seguridad protege la información y evita accesos no autorizados.  
+También previene pérdidas de datos y fallas del sistema.  
+Esto genera confianza y un buen funcionamiento de la plataforma.
