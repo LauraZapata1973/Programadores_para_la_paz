@@ -1,0 +1,14 @@
+Prioridad 1:
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+Prioridad 2:
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+Prioridad 3:
+Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+Prioridad 4:
+Como administrador quiero organizar las incidencias por prioridad para atender primero las más urgentes.
+
+Prioridad 5:
+Como líder comunitario quiero ver el estado de los reportes para informar a la comunidad sobre los avances.
