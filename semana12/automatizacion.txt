@@ -1,0 +1,11 @@
+¿Qué evento activa la automatización?
+
+Evento: Nueva causa registrada en la plataforma.
+
+¿Qué mensaje se envía?
+
+Mensaje: "Nueva causa creada en la plataforma. Revisar el sistema."
+
+¿Qué información no debe enviarse por seguridad?
+
+No se deben enviar cédulas, teléfonos, direcciones, comentarios sensibles ni otros datos personales.
